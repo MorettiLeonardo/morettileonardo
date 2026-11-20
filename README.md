@@ -1,6 +1,6 @@
 <img align="left" src="./assets/space.gif" width="220px" alt="pixel art night landscape">
 
-### &nbsp;&nbsp;&nbsp;Hi, I'm Leonardo 
+### &nbsp;&nbsp;&nbsp;Hi, I'm Leonardo 🌙
 
 &nbsp;&nbsp;&nbsp;&nbsp;💻 software developer
 
